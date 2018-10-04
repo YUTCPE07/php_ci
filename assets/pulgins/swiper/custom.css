@@ -1,0 +1,8 @@
+.rounded-circle {
+	width: 4rem;
+	height: 4rem;
+	position:absolute;
+	top: -1.5rem;
+	right: 1rem;
+	border: 2px solid #007BFF;
+}
